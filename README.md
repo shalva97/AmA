@@ -1,7 +1,7 @@
 # Ask mxcl Anything
 
-* [Ask a question](https://github.com/mxcl/AmA/issues/new)
-* [Check out questions already asked](https://github.com/mxcl/AmA/issues)
+* [Ask a question](https://github.com/shalva97/AmA/issues/new)
+* [Check out questions already asked](https://github.com/shalva97/AmA/issues)
 
 ### Tickets are not closed
 
