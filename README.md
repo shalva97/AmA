@@ -1,4 +1,4 @@
-# Ask mxcl Anything
+# Ask shalva97 Anything
 
 * [Ask a question](https://github.com/shalva97/AmA/issues/new)
 * [Check out questions already asked](https://github.com/shalva97/AmA/issues)
